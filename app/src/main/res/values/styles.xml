@@ -1,0 +1,9 @@
+<resources>
+    <!-- Базовая тема приложения -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">#000000</item> <!-- Фон окна приложения -->
+        <item name="android:textColor">@color/white</item> <!-- Цвет текста -->
+        <item name="android:windowNoTitle">true</item> <!-- Скрыть заголовок окна -->
+        <item name="android:windowActionBar">false</item> <!-- Скрыть панель действий (ActionBar) -->
+    </style>
+</resources>
